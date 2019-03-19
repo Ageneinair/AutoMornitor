@@ -1,0 +1,6 @@
+README.md
+setup.py
+videocut.egg-info/PKG-INFO
+videocut.egg-info/SOURCES.txt
+videocut.egg-info/dependency_links.txt
+videocut.egg-info/top_level.txt
