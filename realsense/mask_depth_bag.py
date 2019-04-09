@@ -144,10 +144,14 @@ try:
             for j in range(np.shape(color_image)[0]):
                 for k in range(np.shape(color_image)[1]):
                     depth_image[j][k] *= premask[j][k]
+                    
+            print('!!!!!!!!!!!!!!!!!!!',np.shape(depth_image))
 
             depth_colormap = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_BONE)
             cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
             cv2.imshow('RealSense', depth_colormap)
+            
+            print('!!!!!!!!!!!!!!!!!!!',np.shape(depth_colormap))
 
             key = cv2.waitKey(1)
 

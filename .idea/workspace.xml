@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1c2bed-354b-4270-ab19-77b890342441" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/mrcnn/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/mrcnn/visualize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/realsense/__init__.py" beforeDir="false" />
@@ -9,6 +11,10 @@
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/samples/demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/samples/demo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/samples/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/samples/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realsense/.ipynb_checkpoints/test_visualize_ply-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/.ipynb_checkpoints/test_visualize_ply-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realsense/1.ply" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/1.ply" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realsense/a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realsense/mask_depth_bag.py" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/mask_depth_bag.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/realsense/test_visualize_ply.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/test_visualize_ply.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,61 +25,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/realsense/test_points_cloud.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/realsense/mask_from_bag.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3300">
-              <caret line="161" column="28" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/realsense/facecapture_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/realsense/maskrcnn_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/realsense/capture_picture.py">
+        <entry file="file://$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/realsense/capture_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="1364">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
               <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,17 +47,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mask_RCNN" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/realsense/test_points_cloud.py" />
+        <option value="$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
-    <option name="x" value="62" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="81" />
     <option name="y" value="24" />
     <option name="width" value="1849" />
     <option name="height" value="1056" />
@@ -110,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,16 +80,22 @@
             <path>
               <item name="AutoMornitor" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoMornitor" type="462c0819:PsiDirectoryNode" />
-              <item name="realsense" type="462c0819:PsiDirectoryNode" />
+              <item name="Mask_RCNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoMornitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoMornitor" type="462c0819:PsiDirectoryNode" />
+              <item name="Mask_RCNN" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -159,7 +125,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="24" width="1849" height="1056" extended-state="5" />
+    <frame x="81" y="24" width="1849" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.296276" />
@@ -187,7 +153,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/realsense/mask_from_bag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
+        <state relative-caret-position="857">
           <caret line="161" column="28" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -214,6 +180,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/realsense/capture_picture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/realsense/capture_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -223,10 +196,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/realsense/capture_picture.py">
+    <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/demo-compact.ipynb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="374">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
