@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1c2bed-354b-4270-ab19-77b890342441" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mask_RCNN/samples/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/mrcnn/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/mrcnn/visualize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/realsense/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/realsense/realsense_demo.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/samples/demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/samples/demo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mask_RCNN/samples/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/samples/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realsense/.ipynb_checkpoints/test_visualize_ply-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/.ipynb_checkpoints/test_visualize_ply-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realsense/1.ply" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/1.ply" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realsense/a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/a.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realsense/mask_depth_bag.py" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/mask_depth_bag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realsense/test_visualize_ply.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/realsense/test_visualize_ply.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,16 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/maskrcnn_compacted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1364">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="1034">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/maskrcnn_compacted_copy.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -54,10 +52,11 @@
       <list>
         <option value="$PROJECT_DIR$/realsense/test_points_cloud.py" />
         <option value="$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py" />
+        <option value="$PROJECT_DIR$/Mask_RCNN/samples/maskrcnn_compacted.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="5">
     <option name="x" value="81" />
     <option name="y" value="24" />
     <option name="width" value="1849" />
@@ -86,7 +85,17 @@
               <item name="AutoMornitor" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoMornitor" type="462c0819:PsiDirectoryNode" />
               <item name="Mask_RCNN" type="462c0819:PsiDirectoryNode" />
+              <item name="mrcnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoMornitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoMornitor" type="462c0819:PsiDirectoryNode" />
+              <item name="Mask_RCNN" type="462c0819:PsiDirectoryNode" />
               <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoMornitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -96,8 +105,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mask_RCNN/samples" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mask_RCNN/samples" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mask_RCNN/samples" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,7 +143,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="24" width="1849" height="1056" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.296276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -196,22 +212,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/demo-compact.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mask_RCNN/maskrcnn_copacted.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="132">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/demo-compact.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/maskrcnn_compacted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mask_RCNN/samples/maskrcnn_compacted_copy.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
